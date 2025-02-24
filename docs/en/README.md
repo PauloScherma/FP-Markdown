@@ -1,10 +1,10 @@
-#FP-Markdown
+# FP-Markdown
 
 Paulo Pinto
 ``2241562``
 
 ### Known programming languages:
-* W
+* C
 * JavaScript
 * Python
 * ...
